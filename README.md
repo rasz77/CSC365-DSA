@@ -1,2 +1,2 @@
-# CSC-365---DSA-
-Class projects
+# CSC365-> DSA
+Projects 1
