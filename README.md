@@ -16,7 +16,7 @@ Insertion Sort‬- The complexity of the insertion sort algorithm in the average
 
 
 Project 2‬‬
-This project implements a B+ Tree data structure to efficiently store and retrieve VAERS‬
+This project implements a B+ Tree data structure to store and retrieve VAERS efficiently‬
 ‭(Vaccine Adverse Event Reporting System) records from multiple CSV datasets. Key‬
 functionalities developed include:‬ CSV Data Integration: VAERS datasets from 2020–2025 from the output of Prjoect 1 are parsed‬
 ‭ using Apache Commons CSV and loaded into the B+ Tree using VAERSID as the key.‬
