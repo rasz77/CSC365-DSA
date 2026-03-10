@@ -9,7 +9,7 @@ Projects 1‬
 ‭sorting by ‘VAERSID’ is as follows:‬
 Quick Sort‬-  The complexity of the quicksort algorithm in the average case is O(n logn). This‬ ‭algorithm took 3699 ms to complete the sorting process.‬
 Merge Sort‬- The complexity of the merge sort algorithm in the average case is O(n logn). This‬ ‭algorithm took 2089ms to complete the sorting process.‬
-Insertion Sort‬- The complexity of the insertion sort algorithm in the average case is O(n^2). This‬ algorithm took 9992331 ms, approximately about 3 hours to complete.
+Insertion Sort‬- The complexity of the insertion sort algorithm in the average case is O(n^2). This‬ algorithm took 9992331 ms, approximately took about 3 hours to complete.
 
 
 Project 2‬‬
