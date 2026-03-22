@@ -62,6 +62,7 @@ co-occurrences,‬ Dataset Summary:‬
 ‭ Processing time:‬
 ‭ CSV merge: 31.67 seconds‬
 ‭ Apriori mining: 61.76 seconds‬‭‭
+
 Frequent Itemsets:‬
 -Total frequent symptoms (≥ 1% support): 40+ single symptoms‬
 - 1-itemsets:‬
