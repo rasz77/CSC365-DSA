@@ -51,7 +51,8 @@ Motivation for Using Apriori‬: Apriori is a classical frequent pattern mining 
 ‭and confidence thresholds allow filtering significant relationships among symptoms.‬
 ‭Parameter Selection‬
 ‭Parameter values were chosen based on the dataset size and the nature of adverse event data‬
-‭and the results of running on different values beforehand:‬
+‭and the results of running on different values beforehand:
+‬
 -Minimum Support‬‭ = 0.01‬(This ensures only symptoms appearing in at least 1% of all reports (~1.6 million records)‬
 ‭ are considered.)‬
 -Minimum Confidence‬‭ = 0.05‬
